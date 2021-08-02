@@ -1,6 +1,6 @@
 public class MyMain {
     public static void main(String[] args) {
-        char str='她';
+        char str='它';
         String tmp= singleInt(str);
         System.out.println(tmp);
     }
